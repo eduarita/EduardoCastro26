@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @EduardoCastro26</h1><h6 align="center"><small>Systems Engineering Student</small></h6>
+<h1 align="center">👋 Hi, I’m Eduardo Castro</h1><h6 align="center"><small>Systems Engineering Student</small></h6>
 
 <!--<hr>
 <div></div>-->
