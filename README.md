@@ -4,7 +4,7 @@
 <div></div>-->
 <ul>
   <li>🌱 I’m currently learning HTML , CSS and JavaScript</li>
-  <li>📫 How to reach me educastro@2610@gmail.com</li>
+  <li>📫 How to reach me educastro2610@gmail.com</li>
 </ul>
  
  <h4>Languages:</h4>
